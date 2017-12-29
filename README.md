@@ -1,1 +1,1 @@
-# Kickstarter-projects
+Predict whether a project would be successful or not based on attributes entered by project owner including goal set for the project, category, country of launch etc., using predictive modelling and clustering techniques
